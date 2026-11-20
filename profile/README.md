@@ -1,7 +1,6 @@
 <div align="center">
 
-# GooIng ☁️
-### Simplificamos tu camino a la nube con el poder de Google
+<a href="https://www.gooing.uy"><img src="https://www.gooing.uy/img/github/banner.png" alt="GooIng: simplificamos tu camino a la nube con el poder de Google" width="100%"></a>
 
 Tu socio de Google Cloud para llevar tu empresa a la nube.
 Migramos, aseguramos y desarrollamos sobre Google Cloud y Workspace para empresas e instituciones de Uruguay y la región.
@@ -34,6 +33,12 @@ Partner de Google Cloud · Uruguay 🇺🇾 · Operamos en Uruguay, Argentina, C
 ## 🧩 Nuestros productos
 
 **[LicitaGo](https://www.gooing.uy/licitago)** · **[FiGo](https://www.gooing.uy/figo)** · **[Celesta](https://www.gooing.uy/celesta)**
+
+## 🤝 Confían en nosotros
+
+<div align="center">
+<a href="https://www.gooing.uy/#clientes"><img src="https://www.gooing.uy/img/github/clientes.png" alt="Clientes de GooIng: INE, Antel, ITC, Varinter, Batycar, Rosenbaum Coto, Castello Abogados, Kingspan, Club Champagnat, Arteplata, Saincor y Potrero" width="760"></a>
+</div>
 
 ## 🛠️ Cómo trabajamos
 
